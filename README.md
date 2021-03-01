@@ -16,7 +16,10 @@ Features-
 Useful Resources-
 
 1. Brad Traversy-Traversy Media https://www.youtube.com/user/TechGuyWeb
-2. GitHub REST API- https://docs.github.com/en/rest
-3.Bootswatch -https://bootswatch.com/
-4.Bootstrap- https://getbootstrap.com/docs/5.0/getting-started/introduction/
+2. 
+3. GitHub REST API- https://docs.github.com/en/rest
+4. 
+5.Bootswatch -https://bootswatch.com/
+6.
+7.Bootstrap- https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
