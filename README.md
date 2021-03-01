@@ -19,7 +19,7 @@ Useful Resources-
 
 2. GitHub REST API- https://docs.github.com/en/rest
 
- 3.Bootswatch -https://bootswatch.com/
+3.Bootswatch -https://bootswatch.com/
 
- 4.Bootstrap- https://getbootstrap.com/docs/5.0/getting-started/introduction/
+4.Bootstrap- https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
