@@ -13,3 +13,13 @@ Features-
 
 4.User's profile and repo are directly linked to GitHub, so anyone searching on this platform would easily be able to navigate to user's GitHub profiles.
 
+Useful Resources-
+
+1. Brad Traversy-Traversy Media https://www.youtube.com/user/TechGuyWeb
+
+2. GitHub REST API- https://docs.github.com/en/rest
+
+3.Bootswatch -https://bootswatch.com/
+
+4.Bootstrap- https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
