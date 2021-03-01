@@ -4,7 +4,6 @@ The GitHub Finder web application built using HTML5/CSS3, Bootstrap4, Javascript
 This project is built using HTML/CSS and Bootstrap 4. It makes use of Vanilla Javascript to fetch user profiles & repos from GitHub API and displays it in the well-presented manner.
 
 Features-
-
 1.It searches for user profiles as you type but reduces unnecessary API calls using setTimeout() method. So API is only called when you have stopped typing your desired keyword.
 
 2.It shows the user information like number of repos, gists, followers and following.
@@ -14,12 +13,10 @@ Features-
 4.User's profile and repo are directly linked to GitHub, so anyone searching on this platform would easily be able to navigate to user's GitHub profiles.
 
 Useful Resources-
+1.Brad Traversy-Traversy Media https://www.youtube.com/user/TechGuyWeb
 
-1. Brad Traversy-Traversy Media https://www.youtube.com/user/TechGuyWeb
-2. 
-3. GitHub REST API- https://docs.github.com/en/rest
-4. 
-5.Bootswatch -https://bootswatch.com/
-6.
-7.Bootstrap- https://getbootstrap.com/docs/5.0/getting-started/introduction/
+2.GitHub REST API- https://docs.github.com/en/rest
 
+3.Bootswatch -https://bootswatch.com/
+
+4.Bootstrap- https://getbootstrap.com/docs/5.0/getting-started/introduction/
