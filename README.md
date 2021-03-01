@@ -13,6 +13,8 @@ Features-
 
 4.User's profile and repo are directly linked to GitHub, so anyone searching on this platform would easily be able to navigate to user's GitHub profiles.
 
+5. Data will be persisted to localStorage which means the data stored in the browser will persist even after the browser window is closed.
+
 Useful Resources-
 
 1.Brad Traversy-Traversy Media https://www.youtube.com/user/TechGuyWeb
