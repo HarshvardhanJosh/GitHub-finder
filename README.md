@@ -1,4 +1,4 @@
-# Github-finder
+# GitHub-finder
 The GitHub Finder web application built using HTML5/CSS3, Bootstrap4, Javascript and GitHub API.
 
 This project is built using HTML/CSS and Bootstrap 4. It makes use of Vanilla Javascript to fetch user profiles & repos from GitHub API and displays it in the well-presented manner.
